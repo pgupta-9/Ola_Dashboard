@@ -55,5 +55,9 @@ Provides insights into ride performance and efficiency
 
 6. Screenshots / Demos
    Example:  ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20overview.png)
+   
    Vehicle Type Dashboard
     ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20vehicle%20type.png)
+
+   Revenue Dashboard
+    ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20revenue.png)
