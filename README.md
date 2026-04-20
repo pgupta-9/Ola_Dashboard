@@ -14,11 +14,11 @@ The Ola Ride Analytics Dashboard is a data-driven Power BI report that helps ana
 
 The dashboard was built using the following tools and technologies:
 
-• 📊 Power BI Desktop – Used for creating interactive dashboards and visualizations
-• 📂 Power Query – Data cleaning and transformation
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
-• 🔗 Data Modeling – Relationships between booking, customer, and ride data
-• 📁 File Format – .pbix (Power BI file) and .png (dashboard preview)
+•  Power BI Desktop – Used for creating interactive dashboards and visualizations
+•  Power Query – Data cleaning and transformation
+•  DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
+•  Data Modeling – Relationships between booking, customer, and ride data
+•  File Format – .pbix (Power BI file) and .png (dashboard preview)
 
 4. Data Source
 
@@ -64,3 +64,6 @@ Provides insights into ride performance and efficiency
 
    Cancellation Dashboard
    ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20cancellation.png)
+
+   Ratings Dashboard
+     ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20ratings.png)
