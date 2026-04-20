@@ -61,3 +61,6 @@ Provides insights into ride performance and efficiency
 
    Revenue Dashboard
     ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20revenue.png)
+
+   Cancellation Dashboard
+   ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20cancellation.png)
