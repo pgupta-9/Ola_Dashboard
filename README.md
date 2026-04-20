@@ -54,4 +54,4 @@ Identifies peak booking trends
 Provides insights into ride performance and efficiency
 
 6. Screenshots / Demos
-   Example:  https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20overview.png
+   Example:  ![Dashboard Preview](https://github.com/pgupta-9/Ola_Dashboard/blob/main/Snapshot%20of%20the%20overview.png)
